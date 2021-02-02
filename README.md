@@ -1,1 +1,1 @@
-Once you declare a variable and assign it a value, your program can manipulate what's stored in the variable as it runs, like a score in a game, for example.
+Learn how const and let work, and why you might want to use them instead of var when declaring variables.
