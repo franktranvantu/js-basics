@@ -1,1 +1,1 @@
-Learn how const and let work, and why you might want to use them instead of var when declaring variables.
+See an overview of the small JavaScript application you'll build.
