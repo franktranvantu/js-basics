@@ -1,3 +1,5 @@
-Every application that you interact with provides ways for its users to give it information. 
+JavaScript provides ways to combine two or more strings into a single string, and it's something you'll likely do a lot in programming. 
 
-Learn how to use 'prompt()' to capture dynamic input from your site users.
+There are different techniques for combining strings in JavaScript. 
+
+First, learn how to add strings together using a process called "concatenation."
