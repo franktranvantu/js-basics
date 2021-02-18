@@ -1,5 +1,3 @@
-JavaScript provides ways to combine two or more strings into a single string, and it's something you'll likely do a lot in programming. 
+JavaScript provides a more intuitive way to work with strings with a feature called "template literals." 
 
-There are different techniques for combining strings in JavaScript. 
-
-First, learn how to add strings together using a process called "concatenation."
+Template literals not only make your code more usable and readable, but they also enhance how you work with strings.
