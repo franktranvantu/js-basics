@@ -1,5 +1,3 @@
-JavaScript provides ways to leave messages in your code. 
+You've learned enough to put together complete programs! 
 
-When you or another developer review your code later, these messages (or comments) can quickly help describe what's going on in the program. 
-
-You can add comments anywhere in your JavaScript code; they're ignored by a web browser and don't affect how your program works.
+Now you're going to write a simple quiz application utilizing most of your new-found JavaScript knowledge.
