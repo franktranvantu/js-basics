@@ -1,3 +1,5 @@
-You can change what your program does by adding decision-making to it. 
+The most important part of a conditional statement is the condition itself. 
 
-Programmers make a program react to different situations using JavaScript conditional statements.
+It's a test that checks to see if something is either true or false. 
+
+JavaScript provides "comparison operators" to help with conditional statements.
