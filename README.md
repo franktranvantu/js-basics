@@ -1,1 +1,3 @@
-Create a program that retrieves user feedback and combines that feedback to create a string that displays on the page.
+You can change what your program does by adding decision-making to it. 
+
+Programmers make a program react to different situations using JavaScript conditional statements.
