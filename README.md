@@ -1,3 +1,1 @@
-Every condition evaluates to either true or false. 
-
-True and false have a specific meaning in JavaScript, they're called "Booleans," and along with strings and numbers, they represent a third type of value (or data type) in JavaScript.
+Add variety to your programs using 'else if' statements. 'else if' provides multiple program paths with numerous conditions.
