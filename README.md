@@ -1,3 +1,3 @@
-You can change what your program does by adding decision-making to it. 
+Every condition evaluates to either true or false. 
 
-Programmers make a program react to different situations using JavaScript conditional statements.
+True and false have a specific meaning in JavaScript, they're called "Booleans," and along with strings and numbers, they represent a third type of value (or data type) in JavaScript.
