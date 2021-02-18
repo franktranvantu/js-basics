@@ -1,3 +1,3 @@
-JavaScript provides a more intuitive way to work with strings with a feature called "template literals." 
+You learned how to collect information from users with the prompt() method, and you displayed that information in an alert dialog, as well as in the console. 
 
-Template literals not only make your code more usable and readable, but they also enhance how you work with strings.
+In this section, you'll learn a common way to display information on a webpage using JavaScript.
